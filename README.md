@@ -1,4 +1,3 @@
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFB6C1&text=🚗🚘🚛&fontAlign=70)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Chaeyoung's%20GitHub%20&height=80&fontSize=60&)
 
 <h3 align="center">⛏Tech Stack </h3>
@@ -24,3 +23,4 @@
 
 <h3 align="center">💬 Email</h3>
 <p align="center"><Strong>dkdl0806@naver.com</Strong></p>
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFB6C1&text=🚗🚘🚛&fontAlign=70)
