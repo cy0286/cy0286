@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?&type=waving&color=FFB6C1)
-
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Chaeyoung's%20GitHub%20&height=80&fontSize=60&)
 
 <h3 align="center">⛏Tech Stack </h3>
